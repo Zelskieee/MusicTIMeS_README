@@ -128,6 +128,7 @@ MusicTIMeS is a web-based e-commerce system designed to digitize and streamline 
 
 ## Contact Information:
 ![Arif Azinuddin](image/arif%20passport%20blazer.png)
+
 For any inquiries or support, please contact Mohamad Arif Azinuddin Bin Zaidi at chojjaarif2002@gmail.com.
 
 ## License:
