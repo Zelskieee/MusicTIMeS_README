@@ -1,4 +1,4 @@
-# ![MusicTIMeS Logo](image/logo.png)
+# ![MusicTIMeS Logo](path/to/logo.png)
 
 # README.txt for MusicTIMeS
 
@@ -123,11 +123,11 @@ MusicTIMeS is a web-based e-commerce system designed to digitize and streamline 
 - Local Server: XAMPP, WAMP, or MAMP
 
 ## Contributors:
-- Mohamad Arif Azinuddin Bin Zaidi (Developer)
+- Mohamad Arif Azinuddin Bin Zaidi
 - Mohd Zainuri Bin Saringat (Supervisor)
 
 ## Contact Information:
-[MusicTIMeS Logo](image/arif%20pakai%20blazer.png)
+![Arif Azinuddin](path/to/arif%20pakai%20blazer.png)
 For any inquiries or support, please contact Mohamad Arif Azinuddin Bin Zaidi at chojjaarif2002@gmail.com.
 
 ## License:
