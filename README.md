@@ -1,4 +1,4 @@
-# ![MusicTIMeS Logo](path/to/logo.png)
+# ![MusicTIMeS Logo](image/logo.png)
 
 # README.txt for MusicTIMeS
 
@@ -127,7 +127,7 @@ MusicTIMeS is a web-based e-commerce system designed to digitize and streamline 
 - Mohd Zainuri Bin Saringat (Supervisor)
 
 ## Contact Information:
-![Arif Azinuddin](path/to/arif%20pakai%20blazer.png)
+![Arif Azinuddin](image/arif%20pakai%20blazer.png)
 For any inquiries or support, please contact Mohamad Arif Azinuddin Bin Zaidi at chojjaarif2002@gmail.com.
 
 ## License:
