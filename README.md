@@ -123,7 +123,7 @@ MusicTIMeS is a web-based e-commerce system designed to digitize and streamline 
 - Local Server: XAMPP, WAMP, or MAMP
 
 ## Contributors:
-- Mohamad Arif Azinuddin Bin Zaidi
+- Mohamad Arif Azinuddin Bin Zaidi (Developer)
 - Mohd Zainuri Bin Saringat (Supervisor)
 
 ## Contact Information:
